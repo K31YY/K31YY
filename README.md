@@ -60,3 +60,12 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href=""> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
+## 🟩 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+</picture>
+
