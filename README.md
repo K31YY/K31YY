@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **Backend, Langauge Python, Framework Django**
 
 - 🧑‍🎓 I’m an Undergraduate at **BUILD BRIGHT UNIVERSITY**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **kheurtsokhy@gmail.com**
   
