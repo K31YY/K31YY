@@ -12,8 +12,6 @@
 - 🧑‍🎓 I’m an Undergraduate at **BUILD BRIGHT UNIVERSITY**
 
 - 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **kheurtsokhy@gmail.com**
   
 - ⚡ Fun fact **Call me as Keii**
 
