@@ -11,9 +11,9 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **BUILD BRIGHT UNIVERSITY**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter/Laravel**
   
-- ⚡ Fun fact **Call me as Keii**
+- ⚡ Fun fact **Call me as Khyy**
 
 </td>
 <td width="50%" align="center">
